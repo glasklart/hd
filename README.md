@@ -43,7 +43,7 @@ Before _all_ icon requests, do the following:
 Search to see if the icon has already been created.
 
   * Google for: `"your app's name" intitle:glasklart intitle:theme site:macthemes.net/forum`
-  * Search the project's issue tracker
+  * Search the project's [issue tracker](https://github.com/glasklart/hd/issues)
 
 If the icon exists:
 
