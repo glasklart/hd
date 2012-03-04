@@ -69,7 +69,7 @@ current icon as it is in Glasklart such as the `Bundle ID` or
 ### Example ###
 
 To view an example renaming request with all the necessary information,
-view issue #1.
+view issue [#1](https://github.com/glasklart/hd/issues/1).
 
 New Icon Request
 ---------------------------------------------------------------------
@@ -114,7 +114,7 @@ to the database](http://ios.xengi.org/cfbundleidentifier/default/).
 ### Example ###
 
 To view an example icon request with all the necessary information,
-view issue #2.
+view issue [#2](https://github.com/glasklart/hd/issues/2).
 
 
 Icon Contributions
