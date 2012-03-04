@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALARM_LOCK_LABEL</key>
+	<string>   </string>
+	<key>AWAY_LOCK_LABEL</key>
+	<string>   </string>
+	<key>CALENDAR_LOCK_LABEL</key>
+	<string>   </string>
+	<key>CF_USER_NOTE_LOCK_LABEL</key>
+	<string>  </string>
+	<key>SLIDE_TO_ANSWER</key>
+	<string>   </string>
+	<key>SLIDE_TO_CALL_BACK</key>
+	<string>   </string>
+	<key>SLIDE_TO_CANCEL</key>
+	<string>   </string>
+	<key>SLIDE_TO_LISTEN</key>
+	<string>   </string>
+	<key>SMS_LOCK_LABEL</key>
+	<string>   </string>
+	<key>TIMER_LOCK_LABEL</key>
+	<string>   </string>
+	<key>POWER_DOWN_LOCK_LABEL</key>
+	<string>   </string>
+</dict>
+</plist>
