@@ -74,9 +74,22 @@ view issue [#1](https://github.com/glasklart/hd/issues/1).
 New Icon Request
 ---------------------------------------------------------------------
 
-If the icon has not already been requested, you'll need to track down
-a few specific pieces of information in order for the icon request to
-be valid.
+If the icon has not already been requested, enter an issue title with
+only the name of the application such as:
+
+    Find My Friends
+
+Do not enter
+
+    Requesting Find Friends!!!!1!!
+    ZOMG I would <3 you forEVAH if you did this one! :)
+    I can't Find My Friends! Can you help!?!?!?
+    URGENT!! YOU MUST DO THIS FOR ME OR I'LL DIE OF DYSENTERY!
+
+### Tracking Down Needed Information ###
+
+There are a few specific pieces of information we'll need in order for
+the icon request to be valid.
 
 __If you do not provide the exact information below, your request will
 be rejected.__
@@ -86,7 +99,7 @@ be rejected.__
   * `PNG Icon Name` _eg: IconPro@2x.png_
   * `Artwork URL` _eg: http://dioi4pcdjblhi.cloudfront.net/images/215cba7fab1a48a7bd511445c04c1193.jpg_
 
-### Find Icon Graphics ###
+#### Find Icon Graphics ####
 
 In order to find the source graphics for your icon, you may first want
 to stop here: http://iextract.quadrat4.de
@@ -98,7 +111,7 @@ The easiest way to provide us the image is to save the icon file to your
 computer and use an app such as Dropbox or CloudApp to provide a public
 URL to it.
 
-### Find the Bundle ID and Icon Name ###
+#### Find the Bundle ID and Icon Name ####
 
 Finally, you'll need to track down the Bundle ID and filename of the icon
 as it exists within the application itself.
