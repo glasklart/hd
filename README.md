@@ -11,13 +11,14 @@ Now includes 6600+ icons! 120 I created on my own, the rest has been
 graciously crafted by the community.  In addition to that: custom
 badges, lock screen skin, popup dialogs, SMS bubbles, calculator skin,
 dialer skin, call skin and a lot of separate options for additional
-customization. 
+customization.
 
 This theme is for iPhone devices which are Retina-display compatible.
-If you are looking for the non-Retina version, click here.
-
-Either download from Cydia (search for Glasklart Classic), or
+If you are looking for the non-Retina version,
 [click here](https://github.com/glasklart/classic/downloads).
+
+Either download from Cydia (search for Glasklart Classic), or [click
+here](https://github.com/glasklart/hd/tarball/master).
 
 Installation
 =====================================================================
@@ -50,7 +51,7 @@ If the icon exists:
   * __Do not proceed any further__.
 
 If the icon does not exist:
-  
+
   * Create a new issue. Only 1 icon request per issue. __Issues with
     multiple icon requests will be closed.__
 
