@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0"><dict>
-
-<key>DockedIconLabelStyle</key>
-<string>color: white; text-shadow: #000000 0px 1px 2px</string>
-
-<key>UndockedIconLabelStyle</key>
-<string>color: white; text-shadow: #000000 0px 1px 2px</string>
-
-<key>CalendarIconDayStyle</key>
-<string>color: #white; text-shadow: #000000 0px 0px 1px; font-size: 8px; font-weight: bold; font-family: Helvetica Neue; margin-top: 6px</string>
-
-<key>CalendarIconDateStyle</key>
-<string>color: #white; text-shadow: #000000 0px 0px 1px; font-size: 36px; font-weight: bold; font-family: Helvetica Neue; margin-top: -2px</string>
-
-</dict></plist>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>CalendarIconDateStyle</key>
+        <string>
+            color:          rgba(221, 221, 221, 221);
+            text-shadow:    #000000 0px 0px 1px;
+            font-size:      36px;
+            font-weight:    bold;
+            font-family:    Helvetica Neue;
+            margin-top:     -2px
+        </string>
+        <key>CalendarIconDayStyle</key>
+        <string>
+            color:          rgba(221, 221, 221, 221);
+            text-shadow:    #000000 0px 0px 1px;
+            font-size:      8px;
+            font-weight:    bold;
+            font-family:    Helvetica Neue;
+            margin-top:     6px
+        </string>
+        <key>DockedIconLabelStyle</key>
+        <string>
+            color:          rgba(221, 221, 221, 221);
+            text-shadow:    #000000 0px 1px 2px
+        </string>
+        <key>UndockedIconLabelStyle</key>
+        <string>
+            color:          rgba(221, 221, 221, 221);
+            text-shadow:    #000000 0px 1px 2px
+        </string>
+    </dict>
+</plist>
