@@ -1,5 +1,17 @@
 <img src="http://www.maxthemes.com/images/zoomed-glasklarthd.jpg" width="200" />
 
+All-Star Contributors
+=====================================================================
+I'm going to add a list of people here who go above and beyond the call of
+duty when contributing to Glasklart.
+
+  * @dreamnet (aka GKI) - You can find all of his amazing Glasklart
+    icons here: http://glasklarthd.dreamnet.at. If you want one of them
+    added to Glasklart proper, file a new icon request
+    [issue](#new-icon-request).
+
+Make sure to show your appreciation to everyone on this list!
+
 Overview
 =====================================================================
 
