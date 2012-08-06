@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0"><dict>
-
-<key>DockedIconLabelStyle</key>
-<string>color: white; text-shadow: #000000 0px 1px 2px</string>
-
-<key>UndockedIconLabelStyle</key>
-<string>color: white; text-shadow: #000000 0px 1px 2px</string>
-
-</dict></plist>
+<plist version="1.0">
+    <dict>
+        <key>DockedIconLabelStyle</key>
+        <string>
+            color:          rgba(221, 221, 221, 221);
+            text-shadow:    #000000 0px 1px 2px
+        </string>
+        <key>UndockedIconLabelStyle</key>
+        <string>
+            color:          rgba(221, 221, 221, 221);
+            text-shadow:    #000000 0px 1px 2px
+        </string>
+    </dict>
+</plist>
