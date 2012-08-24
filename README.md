@@ -94,31 +94,41 @@ Do not enter anything like the following
   * `I can't Find My Friends! Can you help!?!?!?`
   * `URGENT!! YOU MUST DO THIS FOR ME OR I'LL DIE OF DYSENTERY!`
 
+[How do I find the exact name of my application?](#find-the-app-metadata)
+
 ### Tracking Down Needed Information ###
 
 There are a few specific pieces of information we'll need in order for
 the icon request to be valid.
 
-__If you do not provide the exact information below, your request will
-be rejected.__
+__If you do not provide the exact information described here, in the exact format
+described here your request will be rejected.__
 
-  * `Name` _eg: RunKeeper_
-  * `Bundle ID` _eg: RunKeeperPro_ ([how do I find this?](#find-the-bundle-id-and-icon-name))
-  * `PNG Icon Name` _eg: IconPro@2x.png_  ([how do I find this?](#find-the-bundle-id-and-icon-name))
+This is important because if we need to go back and run an automated script to
+parse all of the issues and put them into a database, we need them to be consistently
+formatted.  Thank you for your cooperation.
+
+  * `Name` _eg: RunKeeper - GPS Running, Walking, Cycling and more!_ (This is the __exact__ name that should be displayed in the issue's title. [how do I find this?](#find-the-app-metadata))
+  * `Bundle ID` _eg: RunKeeperPro_ ([how do I find this?](#find-the-app-metadata))
+  * `iTunes ID` _eg: 300235330_ ([how do I find this?](#find-the-app-metadata))
+  * `PNG Icon Names` _eg: Icon.png | Icon@2x.png | Icon-72.png | Icon-Small.png | Icon-Small@2x.png_  ([how do I find this?](#find-the-app-metadata))
   * `Artwork URL` _eg: http://dioi4pcdjblhi.cloudfront.net/images/215cba7fab1a48a7bd511445c04c1193.jpg_ ([how do I find this?](#find-icon-graphics))
 
-#### Find the Bundle ID and Icon Name ####
+#### Find the App Metadata ####
 
-Finally, you'll need to track down the Bundle ID and filename of the icon
-as it exists within the application itself.
+In order to find all of the metadata we need, the easiest way is to
+download [AppInfo](http://modmyi.com/cydia/package.php?id=37153) from Cydia.
 
-The easiest way to find it is to search here:
+Open it and choose the app you're requesting an icon for.  Example:
 
-http://iphone.xengi.net/cfbundleidentifier
+![AppInfo Image](https://dl.dropbox.com/s/x8a8epsv53443z3/appinfo-runkeeper-small.png)
 
-If it does not exist at the link above, you will need to track down that
-information yourself and (if you're feeling generous) [add that information
-to the database](http://ios.xengi.org/cfbundleidentifier/default/).
+Here is the list of information we need and the corresponding place on the screen to find it:
+
+  * `Name`: _Name_
+  * `Bundle ID`: _Id_
+  * `iTunes ID`: _Item ID_
+  * `PNG Icon Name`: _IconFiles_ (Copy the entire item even if it describes multiple icon names)
 
 #### Find Icon Graphics ####
 
@@ -167,7 +177,7 @@ If you are responding to an icon request made by someone other than yourself,
 include the link to the PNG for the app like this:
 
     Fulfillment URL: http://url.to/your/file.png
-    
+
 As well as this Markdown text so that a preview of your image shows up on the comment.
 
     ![](http://preview.dreamnet.at/?image=http://url.to/your/file.png)
