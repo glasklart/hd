@@ -163,8 +163,18 @@ your help!
 Responding to Icon Requests
 ---------------------------------------------------------------------
 
-If you are responding to an icon request made by someone other than yourself, all
-that is required is a comment on that request with links to all the necessary files.
+If you are responding to an icon request made by someone other than yourself,
+include the link to the PNG for the app like this:
+
+    Fulfillment URL: http://url.to/your/file.png
+    
+As well as this Markdown text so that a preview of your image shows up on the comment.
+
+    ![](http://preview.dreamnet.at/?image=http://url.to/your/file.png)
+
+Which will display something like:
+
+![Preview](http://preview.dreamnet.at/?image=http://glasklarthd.dreamnet.at/theicons/10/icon1/icon@2x.png)
 
 __Only one icon should be attached per issue thread__ This helps us keep things
 nice and organized.  If you submit more than one per thread, we'll still accept
