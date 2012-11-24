@@ -15,12 +15,19 @@ duty when contributing to Glasklart.
     sheer number of hours it had to have taken to make all of those a reality
     should be known by all who love Glasklart.
 
+  * @vinstic - Has contributed dozens of icons to the project.  Easy or hard,
+    he handles them with ease.
+
 Rising Stars
 ---------------------------------------------------------------------
 
   * @jimmyt650 - Is a recent addition to the regular icon contributors but in
     that time has added over three dozen icons to the repo.  He has also
     spearheaded the addition of a 'Clockify' theme.
+
+  * @scottbuckley - Over the last few weeks, he has contributed over 40+ icons
+    to the project, without people like him, Glasklart wouldn't be what it is
+    today.
 
 Make sure to show your appreciation to everyone on this list!
 
