@@ -11,11 +11,7 @@ badges, lock screen skin, popup dialogs, SMS bubbles, calculator skin,
 dialer skin, call skin and a lot of separate options for additional
 customization.
 
-This theme is for iPhone devices which are Retina-display compatible.
-If you are looking for the non-Retina version,
-[click here](https://github.com/glasklart/classic/downloads).
-
-Either download from Cydia (search for Glasklart HD), or [click
+Either download from Cydia (search for 'Glasklart'), or [click
 here](https://github.com/glasklart/hd/tarball/master).
 
 All-Star Contributors
