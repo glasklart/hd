@@ -193,11 +193,40 @@ Responding to Icon Requests
 ---------------------------------------------------------------------
 
 If you are responding to an icon request made by someone other than yourself,
-include the link to the PNG for the app like this:
+attach the icon to the issue like so:
 
     Fulfillment URL: http://url.to/your/file.png
 
-As well as this Markdown text so that a preview of your image shows up on the comment.
+### Guidelines ###
+
+Icons will be accepted if they meet the following guidelines:
+
+#### Format ####
+
+Icons should be attached in any of the following formats:
+
+ * PNG
+ * EPS
+ * SVG
+ * PSD
+
+#### Size ####
+
+The file should be 512px by 512px at a minimum
+
+#### Orientation ####
+
+The icon should be _centered_ on a _transparent_ canvas like [this](https://github.com/dreamnet/glasklart-HD-iPad3/blob/master/Icon%20Source%20Examples/com.atebits.Tweetie2.png)
+or [this](https://github.com/dreamnet/glasklart-HD-iPad3/blob/master/Icon%20Source%20Examples/com.apple.AppStore.png).
+
+_Note: There is no maximum size (although 1024px by 1024px is plenty)._
+
+#### Preview ####
+
+You should include a preview of your icon so it can be looked over by the rest of the community by applying
+the template [here](http://glasklarthd.dreamnet.at/download/glasklarthd-template.zip).
+
+Include it by using the following line when you submit your fulfillment.
 
     ![](http://preview.dreamnet.at/?image=http://url.to/your/file.png)
 
