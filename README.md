@@ -248,7 +248,7 @@ Templates
 
 ### Glasklart Icon Template ###
 
-[Download the Icon Template](http://www.maxthemes.com/downloads/glasklart-template2.zip)
+[Download the Icon Template](http://glasklarthd.dreamnet.at/download/glasklarthd-template.zip)
 
 Please, please, read the README included with the template for information on how
 to set up your device for theming and how to use Bundles.
