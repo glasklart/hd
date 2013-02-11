@@ -204,7 +204,7 @@ Icons will be accepted if they meet the following guidelines:
 
 Icons should be attached in any of the following formats:
 
- * PNG
+ * .png
 
 #### Size ####
 
