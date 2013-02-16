@@ -94,6 +94,9 @@ formatted.  Thank you for your cooperation.
   * `PNG Icon Names` _eg: Icon.png | Icon@2x.png | Icon-72.png | Icon-Small.png | Icon-Small@2x.png_  ([how do I find this?](#find-the-app-metadata))
   * `Artwork` ([how do I find this?](#find-icon-graphics))
 
+Do you work better when you can see the end product _before_ you get the explanation
+of how to do it? [Here's an example of a well done request.](https://github.com/glasklart/hd/issues/917)
+
 #### Find the App Metadata ####
 
 In order to find all of the metadata we need, the easiest way is to
