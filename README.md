@@ -72,6 +72,12 @@ If the icon does not exist:
 New Icon Request
 ---------------------------------------------------------------------
 
+While we've tried to make this as simple a process as possible, tracking
+down all the information needed for an icon request is not for the faint of
+heart.  Please read _everything_ below before continuing.
+
+**If your request does not meet our requirements, it _will be closed_.**
+
 If the icon has not already been requested, enter an issue title with
 only the name of the application such as:
 
@@ -102,7 +108,7 @@ formatted.  Thank you for your cooperation.
   * `Bundle ID` _eg: RunKeeperPro_ ([how do I find this?](#find-the-app-metadata))
   * `iTunes ID` _eg: 300235330_ ([how do I find this?](#find-the-app-metadata))
   * `PNG Icon Names` _eg: Icon.png | Icon@2x.png | Icon-72.png | Icon-Small.png | Icon-Small@2x.png_  ([how do I find this?](#find-the-app-metadata))
-  * `Artwork URL` _eg: http://dioi4pcdjblhi.cloudfront.net/images/215cba7fab1a48a7bd511445c04c1193.jpg_ ([how do I find this?](#find-icon-graphics))
+  * `Artwork` ([how do I find this?](#find-icon-graphics))
 
 #### Find the App Metadata ####
 
@@ -130,17 +136,32 @@ Here is the list of information we need and the corresponding place on the scree
   </dd>
 </dl>
 
-#### Find Icon Graphics ####
+#### Icon Graphics ####
 
-In order to find the source graphics for your icon, you may first want
-to stop here: http://iextract.quadrat4.de
+##### Finding Them #####
 
-If you cannot find the graphics for your app, you will need to hunt
-them down yourself and provide a link to the appropriate file.
+We require source artwork that is at least a 512px by 512px.  __This. Is. Required.__
+for your icon to be fulfilled.
 
-The easiest way to provide us the image is to save the icon file to your
-computer and use an app such as Dropbox or CloudApp to provide a public
-URL to it.
+The best way is to do a [Google Image Search](http://images.google.com) like so:
+
+`RunKeeper App Icon`
+
+That will usually result in a good set of results.  In the case that your image is
+not large enough, remember that you can click on an image and select "More Sizes".
+Sometimes this will give you access to bigger images.
+
+##### Attaching Graphics To Your Request #####
+
+Attaching graphics to your request is easy.  All you have to do is click on it and
+drag it to the tab where you've started your issue.  If you drop it on top, it will
+automatically be uploaded and attached.
+
+Alternatively, you can save the icon to your hard drive, then click the 'choose an
+image' link in the area below your request to select it.  It will upload it and
+include it in your issue.
+
+**_Note: We no longer accept images attached via Dropbox, Photobucket, Imgr, CloudApp, etc._**
 
 #### Finding Unknown PNG Icon Names ####
 
@@ -163,7 +184,7 @@ the `PNG Icon Name` when creating your icon request.
 ### Example ###
 
 To view an example icon request with all the necessary information,
-view issue [#2](https://github.com/glasklart/hd/issues/2).
+view issue [#917](https://github.com/glasklart/hd/issues/917).
 
 Rename Icon Request
 ---------------------------------------------------------------------
