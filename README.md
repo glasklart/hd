@@ -40,6 +40,8 @@ duty when contributing to Glasklart.
     to the project, without people like him, Glasklart wouldn't be what it is
     today.
 
+  * From now contributed icons will be attributed to their authors, see the full list here : https://github.com/glasklart/hd/contributors
+
 Make sure to show your appreciation to everyone on this list!
 
 How You Can Help Make Glasklart More Awesome
@@ -75,8 +77,8 @@ Before _all_ icon requests, do the following:
 
 Search to see if the icon has already been created.
 
-  * Google for: `"your app's name" intitle:glasklart intitle:theme site:macthemes.net/forum`
-  * Press 't' right now to open Github's file finder. Type in the name of an app to see if it exists
+  * Go to : https://github.com/glasklart/hd/tree/master/Glasklart%20Icons.theme/Bundles
+  * Press ' ctrl + f ' to search text in the page. Type in the bundle name of an app to see if it exists
   * Search the project's [issue tracker](https://github.com/glasklart/hd/issues)
 
 If the icon exists:
@@ -140,6 +142,11 @@ Here is the list of information we need and the corresponding place on the scree
   * `iTunes ID`: _Item ID_
   * `PNG Icon Name`: _IconFiles_ (Copy the entire item even if it describes multiple icon names)
 
+Sometimes some metadatas are not avaible in AppInfo :
+
+  * Icon files : Open the app files in IFile and list down the icon files in your request.
+  * Id : This happen when you try to read metadata from an app installed with Install0us, AppCake, vShare, ... In this case browse the iTunes page for your app, the id can be found at he end of the URL.
+
 #### Find Icon Graphics ####
 
 In order to find the source graphics for your icon, you may first want
@@ -147,9 +154,10 @@ to stop here: http://iextract.quadrat4.de
 
 If you cannot find the graphics for your app, you will need to hunt
 them down yourself and provide a link to the appropriate file.
+Google images might be really helpfull to find an usable artwork.
 
 The easiest way to provide us the image is to save the icon file to your
-computer and use an app such as Dropbox or CloudApp to provide a public
+computer and use an app such as Dropbox or CloudApp to provide a public 
 URL to it.
 
 ### Example ###
@@ -196,19 +204,17 @@ Icons will be accepted if they meet the following guidelines:
 
 Icons should be attached in any of the following formats:
 
- * PNG
- * EPS
- * SVG
- * PSD
+ * .png
 
 #### Size ####
 
-The file should be 512px by 512px at a minimum
+The file should be 114px by 114px at a minimum
 
 #### Orientation ####
 
 The icon should be _centered_ on a _transparent_ canvas like [this](https://github.com/dreamnet/glasklart-HD-iPad3/blob/master/Icon%20Source%20Examples/com.atebits.Tweetie2.png)
-or [this](https://github.com/dreamnet/glasklart-HD-iPad3/blob/master/Icon%20Source%20Examples/com.apple.AppStore.png).
+or [this](https://github.com/dreamnet/glasklart-HD-iPad3/blob/master/Icon%20Source%20Examples/com.apple.AppStore.png) within the central area defined by the guides in the photoshop template.
+The icon must consist of only one layer, with the layer styles applied on it.
 
 _Note: There is no maximum size (although 1024px by 1024px is plenty)._
 
