@@ -14,31 +14,11 @@ customization.
 Either download from Cydia (search for 'Glasklart'), or [click
 here](https://github.com/glasklart/hd/tarball/master).
 
-All-Star Contributors
+Contributors
 =====================================================================
-I'm going to add a list of people here who go above and beyond the call of
-duty when contributing to Glasklart.
-
-  * @dreamnet (aka GKI) - You can find all of his amazing Glasklart
-    icons here: http://glasklarthd.dreamnet.at. If you want one of them
-    added to Glasklart proper, file a new icon request
-    [issue](#new-icon-request).
-
-  * @Tr1pTr0p - Has been instrumental in updating the larger Glasklart themes
-    for iOS 5 including the Phone, the Lock Screen and the Calculator. The
-    sheer number of hours it had to have taken to make all of those a reality
-    should be known by all who love Glasklart.
-
-  * @vinstic - Has contributed dozens of icons to the project.  Easy or hard,
-    he handles them with ease.
-
-  * @jimmyt650 - Is a recent addition to the regular icon contributors but in
-    that time has added over three dozen icons to the repo.  He has also
-    spearheaded the addition of a 'Clockify' theme.
-
-  * @scottbuckley - Over the last few weeks, he has contributed over 40+ icons
-    to the project, without people like him, Glasklart wouldn't be what it is
-    today.
+Our contributors are who makes Glasklart the best theme for iPhone.
+Without them, Glasklart would have died long ago. Please take a moment
+to [look over our list of contributors](https://github.com/glasklart/hd/graphs/contributors).
 
 Make sure to show your appreciation to everyone on this list!
 
