@@ -115,10 +115,20 @@ Open it and choose the app you're requesting an icon for.  Example:
 
 Here is the list of information we need and the corresponding place on the screen to find it:
 
-  * `Name`: _Name_
-  * `Bundle ID`: _Id_
-  * `iTunes ID`: _Item ID_
-  * `PNG Icon Name`: _IconFiles_ (Copy the entire item even if it describes multiple icon names)
+<dl>
+  <dt>Name:</dt>
+  <dd>In AppInfo it is also called <strong>Name</strong></dd>
+  <dt>Bundle ID:</dt>
+  <dd>In AppInfo it is simply <strong>Id</strong></dd>
+  <dt>iTunes ID:</dt>
+  <dd>In AppInfo it is <strong>Item ID</strong></dd>
+  <dt>PNG Icon Name:</dt>
+  <dd>
+    In AppInfo it is <strong>IconFiles</strong><br/>
+    Copy the entire item even if it describes multiple icon names<br/>
+    <a href="#finding-unknown-png-icon-names">What do I do if it says 'Unknown'?</a>
+  </dd>
+</dl>
 
 #### Find Icon Graphics ####
 
@@ -131,6 +141,24 @@ them down yourself and provide a link to the appropriate file.
 The easiest way to provide us the image is to save the icon file to your
 computer and use an app such as Dropbox or CloudApp to provide a public
 URL to it.
+
+#### Finding Unknown PNG Icon Names ####
+
+If AppInfo tells you that *IconFiles* is 'Unknown', scroll down to the bottom
+of that screen and tap 'Open in iFile'.
+
+Once iFile opens, there should be a folder with the name of your app (in the
+above example it would be `RunKeeper.app`). You'll want to tap on that folder.
+
+In the folder that opens, you'll see a long list of files.  You're looking for
+one called `Info.plist`. Tap on that.
+
+iFile will ask you what you want to open the file with. Choose 'Property List
+Viewer'.
+
+When Property List Viewer opens, scroll down until you find an entry called
+`CFBundleIconFile`. The value on the righthand side is what you will enter for
+the `PNG Icon Name` when creating your icon request.
 
 ### Example ###
 
