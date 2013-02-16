@@ -32,22 +32,6 @@ helps make Glasklart the best, most complete theme on the internet.
   * [Submit a Bug](#submitting-a-bug)
   * or our favorite option... submit a pull request!
 
-Installation
-=====================================================================
-
-After you manually install or (preferrably) install via Cydia, you will
-probably want to do the following:
-
-  1. Connect to the filesystem (iFile, SSH, etc)
-  2. Navigate to `/System/Library/PrivateFrameworks/MobileIcons.framework/`
-  3. Rename `AppIconMask.png` to `AppIconMask-backup.png`
-
-This is optional, however if you choose not to do this, the icons will
-show up against a black graphic.
-
-Note: There is a side effect that this makes unchanged icons squared.
-Unfortunately, at this time, this is the only solution.
-
 Icon Requests
 =====================================================================
 
