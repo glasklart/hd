@@ -184,7 +184,7 @@ issue title just as you would when creating an icon request:
     Runkeeper
 
 You will need to provide basic icon information such as the `Bundle ID`,
-`iTunes ID` and `PNG Icon Name` (see "New Icon Request" below).
+`iTunes ID` and `PNG Icon Name` (see [New Icon Request](#new-icon-request)).
 
 ### Example ###
 
