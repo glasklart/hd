@@ -177,14 +177,14 @@ view issue [#917](https://github.com/glasklart/hd/issues/917).
 Rename Icon Request
 ---------------------------------------------------------------------
 
-If the icon has already been created, but the spelling has changed,
-enter an issue title with both names such as:
+If the icon has already been created, but information about it has
+changed (potentially causing it not be themeing properly), enter an
+issue title just as you would when creating an icon request:
 
-    "Runkeeper Free" renamed to "Runkeeper"
+    Runkeeper
 
-You will need to provide any information that has changed from the
-current icon as it is in Glasklart such as the `Bundle ID` or
-`PNG Icon Name` (see "New Icon Request" below).
+You will need to provide basic icon information such as the `Bundle ID`,
+`iTunes ID` and `PNG Icon Name` (see "New Icon Request" below).
 
 ### Example ###
 
