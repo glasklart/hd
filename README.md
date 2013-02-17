@@ -140,7 +140,8 @@ Sometimes this will give you access to bigger images.
 
 ##### Attaching Graphics To Your Request #####
 
-Attaching graphics to your request is easy.  All you have to do is click on it and
+Attaching graphics to your request [is easy](https://f.cloud.github.com/assets/21/678/248aac6a-40a2-11e2-9a76-fd59ded28bbe.gif).
+All you have to do is click on it and
 drag it to the tab where you've started your issue.  If you drop it on top, it will
 automatically be uploaded and attached.
 
@@ -196,19 +197,23 @@ Icon Contributions
 Glasklart is a community effort, we can only continue being this successful with
 your help!
 
-Responding to Icon Requests
+Whether you are responding to an icon request made by someone else or submitting,
+one for yourself, icon fulfillments require two pieces of information:
+
+* The icon itself which [follows our guidelines](#guidelines) that is [attached to the request](#attaching-icons)
+* A [preview of the icon](#previewing-icons)
+
+__Only one icon should be attached per issue thread__ This helps us keep things
+nice and organized.  If you submit more than one per thread, we'll still accept
+them, but _please_ don't.  We're trying to keep things efficient now as well as
+in the future.
+
+Guidelines
 ---------------------------------------------------------------------
-
-If you are responding to an icon request made by someone other than yourself,
-attach the icon to the issue like so:
-
-    Fulfillment URL: http://url.to/your/file.png
-
-### Guidelines ###
 
 Icons will be accepted if they meet the following guidelines:
 
-#### Format ####
+### Format ###
 
 Icons should be attached in any of the following formats:
 
@@ -217,43 +222,52 @@ Icons should be attached in any of the following formats:
  * SVG
  * PSD
 
-#### Size ####
+### Size ###
 
 The file should be 512px by 512px at a minimum
 
-#### Orientation ####
+### Orientation ###
 
 The icon should be _centered_ on a _transparent_ canvas like [this](https://github.com/dreamnet/glasklart-HD-iPad3/blob/master/Icon%20Source%20Examples/com.atebits.Tweetie2.png)
 or [this](https://github.com/dreamnet/glasklart-HD-iPad3/blob/master/Icon%20Source%20Examples/com.apple.AppStore.png).
 
 _Note: There is no maximum size (although 1024px by 1024px is plenty)._
 
-#### Preview ####
+Attaching Icons
+---------------------------------------------------------------------
+Attach the icon to the issue by dragging and dropping the icon
+file directly into the issue.
 
-You should include a preview of your icon so it can be looked over by the rest of the community by applying
-the template [here](http://glasklarthd.dreamnet.at/download/glasklarthd-template.zip).
+Alternatively you can click the 'choose an image' link and select it from your
+hard drive.
 
-Include it by using the following line when you submit your fulfillment.
+![](https://f.cloud.github.com/assets/21/678/248aac6a-40a2-11e2-9a76-fd59ded28bbe.gif)
+
+Look at the comment on [this issue](https://github.com/glasklart/hd/issues/917)
+for a proper example of a well done icon fulfillment.
+
+Previewing Icons
+---------------------------------------------------------------------
+In order for the team to determine if your icon is up to snuff, we need
+to see it as it would be if it was being used in the Glasklart theme.
+
+You can do that by including the following line when you submit your
+fulfillment.
 
     ![](http://preview.dreamnet.at/?image=http://url.to/your/file.png)
 
-Which will display something like:
+Which will display something like this:
 
 ![Preview](http://preview.dreamnet.at/?image=http://glasklarthd.dreamnet.at/theicons/10/icon1/icon@2x.png)
-
-__Only one icon should be attached per issue thread__ This helps us keep things
-nice and organized.  If you submit more than one per thread, we'll still accept
-them, but _please_ don't.  We're trying to keep things efficient now as well as
-in the future.
 
 Fulfilling Your Own Icon Requests
 ---------------------------------------------------------------------
 
-If you are submitting an icon without a prior request, you should go up to the
-section on "Icon Requests" and follow all of those steps.
+If you are submitting an icon without a prior request, you should [go up to the
+section on Icon Requests](#icon-requests) and follow all of those steps.
 
-The obvious exception is the `Artwork URL` which is not necessary since you will
-be providing the Glasklart themed icon instead.
+Then [go to the section on Icon Contributions](#icon-contributions) and follow
+all of those steps.
 
 Templates
 ---------------------------------------------------------------------
