@@ -211,27 +211,11 @@ in the future.
 Guidelines
 ---------------------------------------------------------------------
 
-Icons will be accepted if they meet the following guidelines:
+In order to create a Glasklart icon you will need Photoshop as well as the template
+[here](http://glasklarthd.dreamnet.at/download/glasklarthd-template.zip).
 
-### Format ###
-
-Icons should be attached in any of the following formats:
-
- * PNG
- * EPS
- * SVG
- * PSD
-
-### Size ###
-
-The file should be 512px by 512px at a minimum
-
-### Orientation ###
-
-The icon should be _centered_ on a _transparent_ canvas like [this](https://github.com/dreamnet/glasklart-HD-iPad3/blob/master/Icon%20Source%20Examples/com.atebits.Tweetie2.png)
-or [this](https://github.com/dreamnet/glasklart-HD-iPad3/blob/master/Icon%20Source%20Examples/com.apple.AppStore.png).
-
-_Note: There is no maximum size (although 1024px by 1024px is plenty)._
+Follow [this guide](http://glasklarthd.dreamnet.at/how-to-make-an-icon) to get you
+started down the road to creating your very first Glasklart icon.
 
 Attaching Icons
 ---------------------------------------------------------------------
