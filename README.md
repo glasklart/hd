@@ -254,7 +254,7 @@ contribution.
 
 If you do it correctly you will see something like this:
 
-![Preview](http://preview.dreamnet.at/?image=http://glasklarthd.dreamnet.at/theicons/10/icon1/icon@2x.png)
+![Preview](http://preview.dreamnet.at/?image=https://raw.github.com/glasklart/hd/3c4aaa828ac3df12618ced3ba1485fc1296aa0b3/Glasklart%20Icons/Bundles/com.apple.Maps/Icon-57@2x.png)
 
 Fulfilling Your Own Icon Requests
 ---------------------------------------------------------------------
