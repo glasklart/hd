@@ -235,12 +235,24 @@ Previewing Icons
 In order for the team to determine if your icon is up to snuff, we need
 to see it as it would be if it was being used in the Glasklart theme.
 
-You can do that by including the following line when you submit your
-fulfillment.
+After attaching your contribution in the step above, you will see a URL
+that looks similar to:
 
-    ![](http://preview.dreamnet.at/?image=http://url.to/your/file.png)
+    https://f.cloud.github.com/assets/2156037/164687/960c3096-78d5-11e2-9c05-8ed4c5c4dbbf.png
 
-Which will display something like this:
+In order to create a preview for that file, you'll need to add the following
+line to your comment:
+
+    ![](http://preview.dreamnet.at/?image=https://f.cloud.github.com/assets/2156037/164687/960c3096-78d5-11e2-9c05-8ed4c5c4dbbf.png)
+
+Notice the first part will not change for any preview you create:
+
+    ![](http://preview.dreamnet.at/?image=
+    
+The part after the equal sign is the URL that was created when you attached your
+contribution.
+
+If you do it correctly you will see something like this:
 
 ![Preview](http://preview.dreamnet.at/?image=http://glasklarthd.dreamnet.at/theicons/10/icon1/icon@2x.png)
 
