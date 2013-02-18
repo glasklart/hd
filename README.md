@@ -5,7 +5,7 @@ Out-of-the-way transparent WinterBoard theme that let's you really
 showcase your wallpaper. Glasklart is swedish, it means "clear as
 glass".
 
-Now includes 7200+ icons which have been
+Now includes 7000+ icons which have been
 graciously crafted by the community.  In addition to that: custom
 badges, lock screen skin, popup dialogs, SMS bubbles, calculator skin,
 dialer skin, call skin and a lot of separate options for additional
@@ -39,7 +39,6 @@ Before _all_ icon requests, do the following:
 
 Search to see if the icon has already been created.
 
-  * Google for: `"your app's name" intitle:glasklart intitle:theme site:macthemes.net/forum`
   * Press 't' right now to open Github's file finder. Type in the name of an app to see if it exists
   * Search the project's [issue tracker](https://github.com/glasklart/hd/issues)
 
