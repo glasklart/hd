@@ -114,7 +114,10 @@ Here is the list of information we need and the corresponding place on the scree
   <dt>Bundle ID:</dt>
   <dd>In AppInfo it is simply <strong>Id</strong></dd>
   <dt>iTunes ID:</dt>
-  <dd>In AppInfo it is <strong>Item ID</strong></dd>
+  <dd>
+    In AppInfo it is <strong>Item ID</strong><br/>
+    <a href="#finding-blank-itunes-ids">What do I do if it's blank?</a>
+  </dd>
   <dt>PNG Icon Name:</dt>
   <dd>
     In AppInfo it is <strong>IconFiles</strong><br/>
@@ -168,6 +171,29 @@ Viewer'.
 When Property List Viewer opens, scroll down until you find an entry called
 `CFBundleIconFile`. The value on the righthand side is what you will enter for
 the `PNG Icon Name` when creating your icon request.
+
+#### Finding Blank iTunes IDs ####
+
+The only reason we've found for a iTunes ID to be blank is if you've pirated the
+app.  We don't condone piracy, but occasionally an app must be installed outside
+of the App Store ecosystem. For example, if it was pulled from the store, or the
+newest version has a bug that makes it unusable.
+
+In those cases, to find the iTunes ID you'll want to:
+
+* Open the iTunes Store
+* Navigate to the app you're wanting to make a request for
+* Right click on the name of the app
+* Choose "Copy Link"
+* Paste the link somewhere and look at it
+
+The link will look something like this:
+
+    https://itunes.apple.com/us/app/runkeeper-gps-track-running/id300235330?mt=8
+
+The iTunes ID is everything after the 'id' and before the '?'. In this case:
+
+    300235330
 
 ### Example ###
 
