@@ -116,7 +116,8 @@ Here is the list of information we need and the corresponding place on the scree
   <dt>iTunes ID:</dt>
   <dd>
     In AppInfo it is <strong>Item ID</strong><br/>
-    <a href="#finding-blank-itunes-ids">What do I do if it's blank?</a>
+    If you are requesting a Cydia app, you do not have to supply an iTunes ID.
+    <a href="#finding-blank-itunes-ids">What do I do if it's not a Cydia app, but is still blank?</a>
   </dd>
   <dt>PNG Icon Name:</dt>
   <dd>
