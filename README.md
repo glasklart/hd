@@ -119,6 +119,8 @@ Open AppInfo and choose the app you're requesting an icon for.  Example:
 Locate the line that says `Item ID`.  That is the iTunes ID and it will be used in the
 next step.
 
+[What do I do if the Item ID is blank?](#troubleshooting-finding-blank-itunes-ids)
+
 #### Step 2 of 3: Create a Well-Formed Request ####
 
 <img src="http://dl.dropbox.com/u/1132018/itunes-artwork-crawler-step-1.png" width="200" align="right" />
@@ -157,7 +159,7 @@ to this:
 
     Icon Names: Icon.png | Icon@2x.png | Icon-72.png | Icon-Small.png | Icon-Small@2x.png
 
-[What do I do if `IconFiles` is 'Unknown'?]()
+[What do I do if `IconFiles` is 'Unknown'?](#troubleshooting-finding-unknown-png-icon-names)
 
 #### You're Done! ####
 
