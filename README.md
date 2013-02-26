@@ -35,22 +35,37 @@ helps make Glasklart the best, most complete theme on the internet.
 Icon Requests
 =====================================================================
 
+## Verify Icon Hasn't Already Been Submitted ##
+
 Before _all_ icon requests, do the following:
 
-Search to see if the icon has already been created.
+### Step 1: Check For Existing Issues ###
 
-  * Press 't' right now to open Github's file finder. Type in the name of an app to see if it exists
-  * Search the project's [issue tracker](https://github.com/glasklart/hd/issues)
+Search the project's [issue tracker](https://github.com/glasklart/hd/issues)
+for the app's name.
 
-If the icon exists:
+If it exists, add a comment describing what you think the issue is _to the
+existing issue._ If the issue is currently closed, don't worry, if necessary,
+we'll reopen it.
 
-  * Is it not working?  Maybe it's a bug!  Create an issue something like issue [#3](https://github.com/glasklart/hd/issues/3)
+### Step 2: Check For Existing Icons ###
 
-If the icon does not exist:
+If `Check For Existing Issues` doesn't find anything, press 't' right now
+to open Github's file finder. Type in the name of an app to see if it
+exists.
 
-  * Create a [new icon request issue](#new-icon-request). Only 1 icon
-    request per issue.  __Issues with multiple icon requests will be
-    closed.__
+If it does, fill out a [New Icon Request](#new-icon-request) and once
+you're done with that, add a **separate** comment to the issue you just created
+letting us know that you think there's a problem with the current icon.
+
+If you have any additional information, such as if you know how to fix
+the issue, we would be grateful if you'd supply that.
+
+### Step 3: Fill Out A 'New Icon Request' ###
+
+If you still can't find the item, you are now able to fill out a typical
+[New Icon Request](#new-icon-request). Only 1 icon request per issue.
+__Issues with multiple icon requests will be closed.__
 
 New Icon Request
 ---------------------------------------------------------------------
@@ -73,90 +88,85 @@ Do not enter anything like the following
   * `I can't Find My Friends! Can you help!?!?!?`
   * `URGENT!! YOU MUST DO THIS FOR ME OR I'LL DIE OF DYSENTERY!`
 
-[How do I find the exact name of my application?](#find-the-app-metadata)
+**How do I find the exact name of my application?** Use the `Name` value
+from [Step 2](#step-2-of-3-create-a-well-formed-request)
 
 ### Tracking Down Needed Information ###
 
-There are a few specific pieces of information we'll need in order for
-the icon request to be valid.
-
-__If you do not provide the exact information described here, in the exact format
-described here your request will be rejected.__
+We have made great strides in making this as painless a process as possible.  If you
+follow the exact steps outlined below, you will have a valid request.  However, if
+you do not give us an icon request in the exact format we're looking for, _your
+request **will** be closed._
 
 This is important because if we need to go back and run an automated script to
 parse all of the issues and put them into a database, we need them to be consistently
 formatted.  Thank you for your cooperation.
 
-  * `Name` _eg: RunKeeper - GPS Running, Walking, Cycling and more!_ (This is the __exact__ name that should be displayed in the issue's title. [how do I find this?](#find-the-app-metadata))
-  * `Bundle ID` _eg: RunKeeperPro_ ([how do I find this?](#find-the-app-metadata))
-  * `iTunes ID` _eg: 300235330_ ([how do I find this?](#find-the-app-metadata))
-  * `PNG Icon Names` _eg: Icon.png | Icon@2x.png | Icon-72.png | Icon-Small.png | Icon-Small@2x.png_  ([how do I find this?](#find-the-app-metadata))
-  * `Artwork` ([how do I find this?](#find-icon-graphics))
-
 Do you work better when you can see the end product _before_ you get the explanation
-of how to do it? [Here's an example of a well done request.](https://github.com/glasklart/hd/issues/917)
+of how to do it? [Here's an example of a well done request.](https://github.com/glasklart/hd/issues/1297)
 
-#### Find the App Metadata ####
+#### Getting Started with AopInfo ####
 
 In order to find all of the metadata we need, the easiest way is to
 download [AppInfo](http://modmyi.com/cydia/package.php?id=37153) from Cydia.
 
-Open it and choose the app you're requesting an icon for.  Example:
+#### Step 1 of 3: Find the iTunes ID ####
+
+Open AppInfo and choose the app you're requesting an icon for.  Example:
 
 ![AppInfo Image](https://dl.dropbox.com/s/x8a8epsv53443z3/appinfo-runkeeper-small.png)
 
-Here is the list of information we need and the corresponding place on the screen to find it:
+Locate the line that says `Item ID`.  That is the iTunes ID and it will be used in the
+next step.
 
-<dl>
-  <dt>Name:</dt>
-  <dd>In AppInfo it is also called <strong>Name</strong></dd>
-  <dt>Bundle ID:</dt>
-  <dd>In AppInfo it is simply <strong>Id</strong></dd>
-  <dt>iTunes ID:</dt>
-  <dd>
-    In AppInfo it is <strong>Item ID</strong><br/>
-    If you are requesting a Cydia app, you do not have to supply an iTunes ID.
-    <a href="#finding-blank-itunes-ids">What do I do if it's not a Cydia app, but is still blank?</a>
-  </dd>
-  <dt>PNG Icon Name:</dt>
-  <dd>
-    In AppInfo it is <strong>IconFiles</strong><br/>
-    Copy the entire item even if it describes multiple icon names<br/>
-    <a href="#finding-unknown-png-icon-names">What do I do if it says 'Unknown'?</a>
-  </dd>
-</dl>
+#### Step 2 of 3: Create a Well-Formed Request ####
 
-#### Icon Graphics ####
+<img src="http://dl.dropbox.com/u/1132018/itunes-artwork-crawler-step-1.png" width="200" align="right" />
 
-##### Finding Them #####
+1. Open [this](http://getart.dreamnet.at) in a new tab.
+2. Enter the iTunes ID you acquired from Step 1 in the field provided.
+3. Press "Crawl data!"
 
-We require source artwork that is at least a 512px by 512px.  __This. Is. Required.__
-for your icon to be fulfilled.
+Assuming the iTunes ID is valid, you'll see a page with a text field and a (hopefully)
+giant image of the artwork.
 
-The best way is to do a [Google Image Search](http://images.google.com) like so:
+Take the entire contents of the text area and paste it into the issue you've opened.
 
-`RunKeeper App Icon`
+**It is VERY important that you paste it _at the very top_ of the icon request.**
 
-That will usually result in a good set of results.  In the case that your image is
-not large enough, remember that you can click on an image and select "More Sizes".
-Sometimes this will give you access to bigger images.
+Once you've done that, there will be two lines that will not be filled out yet.
 
-##### Attaching Graphics To Your Request #####
+    iPhone Icon Name: ### THIS IS FOR GLASKLART MAINTAINERS DO NOT CHANGE THIS LINE ###
 
-Attaching graphics to your request [is easy](https://f.cloud.github.com/assets/21/678/248aac6a-40a2-11e2-9a76-fd59ded28bbe.gif).
-All you have to do is click on it and
-drag it to the tab where you've started your issue.  If you drop it on top, it will
-automatically be uploaded and attached.
+and
 
-Alternatively, you can save the icon to your hard drive, then click the 'choose an
-image' link in the area below your request to select it.  It will upload it and
-include it in your issue.
+    Icon Names: ### PLEASE FILL THIS OUT ###
 
-**_Note: We no longer accept images attached via Dropbox, Photobucket, Imgr, CloudApp, etc._**
+You're now ready for the final step.
 
-#### Finding Unknown PNG Icon Names ####
+#### Step 3 of 3: Find PNG Icon Names ####
 
-If AppInfo tells you that *IconFiles* is 'Unknown', scroll down to the bottom
+Go back to AppInfo to your app and locate the entry for `IconFiles`.
+
+Take this entire line and _exactly_ copy it onto the `Icon Names` line from
+**Step 2**. For RunKeeper, the line would go from this:
+
+    Icon Names: ### PLEASE FILL THIS OUT ###
+
+to this:
+
+    Icon Names: Icon.png | Icon@2x.png | Icon-72.png | Icon-Small.png | Icon-Small@2x.png
+
+[What do I do if `IconFiles` is 'Unknown'?]()
+
+#### You're Done! ####
+
+Hit 'Submit new issue' and we'll get it requested as soon as possible. Thanks
+for helping to make Glasklart even more awesome!
+
+#### Troubleshooting: Finding Unknown PNG Icon Names ####
+
+If AppInfo tells you that `IconFiles` is 'Unknown', scroll down to the bottom
 of that screen and tap 'Open in iFile'.
 
 Once iFile opens, there should be a folder with the name of your app (in the
@@ -172,7 +182,7 @@ When Property List Viewer opens, scroll down until you find an entry called
 `CFBundleIconFile`. The value on the righthand side is what you will enter for
 the `PNG Icon Name` when creating your icon request.
 
-#### Finding Blank iTunes IDs ####
+#### Troubleshooting: Finding Blank iTunes IDs ####
 
 The only reason we've found for a iTunes ID to be blank is if you've pirated the
 app.  We don't condone piracy, but occasionally an app must be installed outside
@@ -198,7 +208,7 @@ The iTunes ID is everything after the 'id' and before the '?'. In this case:
 ### Example ###
 
 To view an example icon request with all the necessary information,
-view issue [#917](https://github.com/glasklart/hd/issues/917).
+view issue [#1297](https://github.com/glasklart/hd/issues/1297).
 
 Rename Icon Request
 ---------------------------------------------------------------------
@@ -209,8 +219,8 @@ issue title just as you would when creating an icon request:
 
     Runkeeper
 
-You will need to provide basic icon information such as the `Bundle ID`,
-`iTunes ID` and `PNG Icon Name` (see [New Icon Request](#new-icon-request)).
+You will need to provide _all_ icon information just as you would if you
+were filling out a [New Icon Request](#new-icon-request).
 
 ### Example ###
 
@@ -258,6 +268,10 @@ for a proper example of a well done icon fulfillment.
 
 Previewing Icons
 ---------------------------------------------------------------------
+_**DO NOT USE THE `preview` LAYER PROVIDED IN THE PSD!** That is provided
+for **your** benefit when creating the icon. It should **not** be used for
+the preview inside the issue._
+
 In order for the team to determine if your icon is up to snuff, we need
 to see it as it would be if it was being used in the Glasklart theme.
 
