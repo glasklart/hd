@@ -1,7 +1,7 @@
 Overview
 =====================================================================
 
-Out-of-the-way transparent WinterBoard theme that let's you really
+Out-of-the-way transparent WinterBoard theme that lets you really
 showcase your wallpaper. Glasklart is swedish, it means "clear as
 glass".
 
@@ -44,13 +44,13 @@ Before _all_ icon requests, do the following:
 Search the project's [issue tracker](https://github.com/glasklart/hd/issues)
 for the app's name.
 
-If it exists, add a comment describing what you think the issue is _to the
-existing issue._ If the issue is currently closed, don't worry, if necessary,
+If it exists, add a comment describing what you think the problem is _to the
+existing issue._ If the issue is currently closed, don't worry; if necessary,
 we'll reopen it.
 
 ### Step 2: Check For Existing Icons ###
 
-If `Check For Existing Issues` doesn't find anything, press 't' right now
+If `Check For Existing Issues` doesn't find anything, press `t` right now
 to open Github's file finder. Type in the name of an app to see if it
 exists.
 
@@ -58,8 +58,8 @@ If it does, fill out a [New Icon Request](#new-icon-request) and once
 you're done with that, add a **separate** comment to the issue you just created
 letting us know that you think there's a problem with the current icon.
 
-If you have any additional information, such as if you know how to fix
-the issue, we would be grateful if you'd supply that.
+If you have any additional information, such as how to fix the issue, we
+would be grateful if you'd supply that.
 
 ### Step 3: Fill Out A 'New Icon Request' ###
 
@@ -77,11 +77,11 @@ heart.  Please read _everything_ below before continuing.
 **If your request does not meet our requirements, it _will be closed_.**
 
 If the icon has not already been requested, enter an issue title with
-only the name of the application such as:
+**only** the name of the application, such as:
 
     Find My Friends
 
-Do not enter anything like the following
+Do not enter anything like the following:
 
   * `Requesting Find Friends!!!!1!!`
   * `ZOMG I would <3 you forEVAH if you did this one! :)`
@@ -102,12 +102,12 @@ This is important because if we need to go back and run an automated script to
 parse all of the issues and put them into a database, we need them to be consistently
 formatted.  Thank you for your cooperation.
 
-Do you work better when you can see the end product _before_ you get the explanation
-of how to do it? [Here's an example of a well done request.](https://github.com/glasklart/hd/issues/1297)
+Because it's quite complex, it may be easier if we show you what [a properly executed
+icon request looks like](https://github.com/glasklart/hd/issues/1297).
 
-#### Getting Started with AopInfo ####
+#### Getting Started with AppInfo ####
 
-In order to find all of the metadata we need, the easiest way is to
+The easiest way to find all of the metadata we need is to
 download [AppInfo](http://modmyi.com/cydia/package.php?id=37153) from Cydia.
 
 #### Step 1 of 3: Find the iTunes ID ####
@@ -125,14 +125,14 @@ next step.
 
 <img src="http://dl.dropbox.com/u/1132018/itunes-artwork-crawler-step-1.png" width="200" align="right" />
 
-1. Open [this](http://getart.dreamnet.at) in a new tab.
+1. Open [this page](http://getart.dreamnet.at) in a new tab.
 2. Enter the iTunes ID you acquired from Step 1 in the field provided.
 3. Press "Crawl data!"
 
 Assuming the iTunes ID is valid, you'll see a page with a text field and a (hopefully)
 giant image of the artwork.
 
-Take the entire contents of the text area and paste it into the issue you've opened.
+Copy the entire contents of the text area and paste it into the issue you've opened.
 
 **It is VERY important that you paste it _at the very top_ of the icon request.**
 
@@ -163,7 +163,7 @@ to this:
 
 #### You're Done! ####
 
-Hit 'Submit new issue' and we'll get it requested as soon as possible. Thanks
+Hit 'Submit new issue' and we'll verify your request as soon as possible. Thanks
 for helping to make Glasklart even more awesome!
 
 #### Troubleshooting: Finding Unknown PNG Icon Names ####
@@ -171,8 +171,9 @@ for helping to make Glasklart even more awesome!
 If AppInfo tells you that `IconFiles` is 'Unknown', scroll down to the bottom
 of that screen and tap 'Open in iFile'.
 
-Once iFile opens, there should be a folder with the name of your app (in the
-above example it would be `RunKeeper.app`). You'll want to tap on that folder.
+Once iFile opens, in the list of files should be a folder with the name of
+your app (in the above example it would be `RunKeeper.app`). You'll want to
+tap on that folder.
 
 In the folder that opens, you'll see a long list of files.  You're looking for
 one called `Info.plist`. Tap on that.
@@ -186,15 +187,15 @@ the `PNG Icon Name` when creating your icon request.
 
 #### Troubleshooting: Finding Blank iTunes IDs ####
 
-The only reason we've found for a iTunes ID to be blank is if you've pirated the
-app.  We don't condone piracy, but occasionally an app must be installed outside
-of the App Store ecosystem. For example, if it was pulled from the store, or the
-newest version has a bug that makes it unusable.
+The only reason we've found for AppInfo to have a blank `ItemID` field, is
+if you've pirated the app.  We don't condone piracy, but occasionally an app
+must be installed outside of the App Store ecosystem. For example, if it was
+pulled from the store, or the newest version has a bug that makes it unusable.
 
 In those cases, to find the iTunes ID you'll want to:
 
 * Open the iTunes Store
-* Navigate to the app you're wanting to make a request for
+* Navigate to the app you want to make a request for
 * Right click on the name of the app
 * Choose "Copy Link"
 * Paste the link somewhere and look at it
@@ -215,14 +216,17 @@ view issue [#1297](https://github.com/glasklart/hd/issues/1297).
 Rename Icon Request
 ---------------------------------------------------------------------
 
+Don't forget to first look for an existing issue [as described here](#verify-icon-hasnt-already-been-submitted).
+If one already exists, add a comment letting us know what has changed.
+
 If the icon has already been created, but information about it has
-changed (potentially causing it not be themeing properly), enter an
+changed (potentially causing it not be theming properly), enter an
 issue title just as you would when creating an icon request:
 
     Runkeeper
 
-You will need to provide _all_ icon information just as you would if you
-were filling out a [New Icon Request](#new-icon-request).
+You will need to provide all icon information just as if you were
+filling out a [New Icon Request](#new-icon-request).
 
 ### Example ###
 
@@ -340,7 +344,11 @@ Submitting a Bug
 
 Sometimes app makers change the icon names that they use and doing so breaks Glasklart.
 Sometimes Apple changes the names of images they use within iOS and doing so breaks Glasklart.
-If you find a problem like this or anything else, _please file a bug_.  It's really easy!  Just
+If you find a problem like this or anything else, first [verify that an issue doesn't already
+exist for your app](#verify-icon-hasnt-already-been-submitted). If it does, let us know what
+has changed there.
+
+If you cannot find an existing issue, _please open one_.  It's really easy!  Just
 create something similar to [this](https://github.com/glasklart/hd/issues/3).
 
 And thanks again for keeping Glasklart bug-free!
