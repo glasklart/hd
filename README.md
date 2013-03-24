@@ -1,6 +1,8 @@
 Overview
 =====================================================================
 
+<img src="https://secure.gravatar.com/avatar/55f5957eaa80d310208770c0547f680b?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png" width="200" height="200" align="right" />
+
 Out-of-the-way transparent WinterBoard theme that lets you really
 showcase your wallpaper. Glasklart is swedish, it means "clear as
 glass".
