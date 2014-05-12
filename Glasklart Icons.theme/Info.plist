@@ -8,27 +8,27 @@
             text-shadow:    #000000 0px 0px 1px;
             font-size:      36px;
             font-weight:    bold;
-            font-family:    Helvetica Neue;
-            margin-top:     -2px
+            margin-top:     4px
         </string>
         <key>CalendarIconDayStyle</key>
         <string>
             color:          rgba(221, 221, 221, 221);
             text-shadow:    #000000 0px 0px 1px;
-            font-size:      8px;
+            font-size:      9px;
             font-weight:    bold;
-            font-family:    Helvetica Neue;
-            margin-top:     6px
+            margin-top:     4.5px
         </string>
         <key>DockedIconLabelStyle</key>
         <string>
             color:          rgba(221, 221, 221, 221);
-            text-shadow:    #000000 0px 1px 2px
+            text-shadow:    #000000 0px 1px 2px;
+            font-size:		12px
         </string>
         <key>UndockedIconLabelStyle</key>
         <string>
             color:          rgba(221, 221, 221, 221);
-            text-shadow:    #000000 0px 1px 2px
+            text-shadow:    #000000 0px 1px 2px;
+            font-size:		12px
         </string>
     </dict>
 </plist>
