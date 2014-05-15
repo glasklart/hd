@@ -16,9 +16,6 @@ customization.
 Either download from Cydia (search for 'Glasklart'), or [click
 here](https://github.com/glasklart/hd/tarball/master).
 
-***Glasklart is currently NOT compatible with iOS7.***
-**We are working on it.**
-
 Contributors
 =====================================================================
 Without them, Glasklart would have died long ago. Please take a moment
