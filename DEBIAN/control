@@ -1,10 +1,10 @@
-Name: Glasklart
+Name: Glasklart iOS7 Beta
 Package: com.modmyi.glasklarthd
-Version: 4.0
+Version: 4.00b
 Architecture: iphoneos-arm 
 Description: Out-of-the-way transparent WinterBoard theme that lets you really showcase your wallpaper. Glasklart is swedish, it means "clear as glass". Compatible with iOS7 as of version 4.0.
 Homepage: http://modmyi.com/info/glasklarthdipadampiphone4ready.php
-Maintainer: dreamnet
+Maintainer: dreamnet <glasklarthd@dreamnet.at>
 Author: Max Rudberg
 Section: Themes (Complete)
 Conflicts: com.modmyi.glasklarthdipadampiphone4ready
