@@ -1,34 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-    <dict>
-        <key>CalendarIconDateStyle</key>
-        <string>
-            color:          rgba(221, 221, 221, 221);
-            text-shadow:    #000000 0px 0px 1px;
-            font-size:      36px;
-            font-weight:    bold;
-            margin-top:     4px
-        </string>
-        <key>CalendarIconDayStyle</key>
-        <string>
-            color:          rgba(221, 221, 221, 221);
-            text-shadow:    #000000 0px 0px 1px;
-            font-size:      8px;
-            font-weight:    bold;
-            margin-top:     4.5px
-        </string>
-        <key>DockedIconLabelStyle</key>
-        <string>
-            color:          rgba(221, 221, 221, 221);
-            text-shadow:    #000000 0px 1px 2px;
-            font-size:		12px
-        </string>
-        <key>UndockedIconLabelStyle</key>
-        <string>
-            color:          rgba(221, 221, 221, 221);
-            text-shadow:    #000000 0px 1px 2px;
-            font-size:		12px
-        </string>
-    </dict>
+<plist version="1.0"> 
+<dict> 
+	<key>CalendarIconDateStyle</key>
+	<string> 
+		width: 60px;
+		height: 34px;
+		position: absolute;
+		margin-top: 7px;
+		margin-left: 1px;
+		padding: 0px;
+		overflow: hidden;
+		text-align: center;
+		line-height: 1em;
+		color: rgba(255,255,255,0.8);
+		font-size: 36.5px;
+		font-weight: bold;
+		letter-spacing: -1px;
+		text-shadow: rgba(0,0,0,0.5) 0px 0px 1px;
+		border: 0px solid #fff;
+	</string>
+	<key>CalendarIconDayStyle</key>
+	<string>
+		width: 44px;
+		height: 12px;
+		position: absolute;
+		margin-top: 3px;
+		margin-left: 0px;
+		padding: 0px;
+		overflow: hidden;
+		text-align: center;
+		font-size: 9px;
+		font-weight: normal;
+		letter-spacing: -0.5px;
+		color: #ffffff;
+		text-shadow: rgba(0,0,0,0.5) 0px 0px 1px;
+	</string>
+	<key>DockedIconLabelStyle</key>
+	<string>
+		font-size: 12px;
+		color: #ffffff;
+	</string>
+	<key>UndockedIconLabelStyle</key>
+	<string>
+		font-size: 12px;
+		color: #ffffff;
+	</string>
+</dict>
 </plist>
