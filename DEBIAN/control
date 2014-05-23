@@ -7,6 +7,6 @@ Homepage: https://github.com/glasklart/hd
 Maintainer: dreamnet <glasklarthd@dreamnet.at>
 Author: Max Rudberg
 Section: Themes (Complete)
-Conflicts: com.modmyi.glasklarthdipadampiphone4ready
-Replaces: com.modmyi.glasklarthdipadampiphone4ready
+Conflicts: com.modmyi.glasklarthdipadampiphone4ready, com.modmyi.glasklarthd
+Replaces: com.modmyi.glasklarthdipadampiphone4ready, com.modmyi.glasklarthd
 Depends: winterboard (>=0.9.3915), firmware (>=7.0), com.codethemed.iconbundles (>=0.1-3)
