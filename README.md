@@ -7,7 +7,7 @@ Out-of-the-way transparent WinterBoard theme that lets you really
 showcase your wallpaper. Glasklart is swedish, it means "clear as
 glass".
 
-Now includes 7000+ icons which have been
+Now includes 5800+ icons which have been
 graciously crafted by the community.  In addition to that: custom
 badges, lock screen skin, popup dialogs, SMS bubbles, calculator skin,
 dialer skin, call skin and a lot of separate options for additional
