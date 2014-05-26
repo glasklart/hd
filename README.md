@@ -9,7 +9,7 @@ glass".
 
 Now includes 5800+ icons which have been graciously crafted by the community.
 
-Compatible **only** with iOS7 since the [release](https://github.com/glasklart/hd/releases) of Version 4.00.0.
+Compatible **only** with iOS7 since the [release](https://github.com/glasklart/hd/releases) of [Version 4.00.0](https://github.com/glasklart/hd/releases/tag/release%2Fv4.00.0).
 
 Either download from Cydia (search for 'Glasklart'), or [click
 here](https://github.com/glasklart/hd/tarball/master).
