@@ -1,20 +1,21 @@
 Name: Glasklart iOS7
 Package: com.modmyi.glasklarthd7
-Version: 4.00.0
+Version: 4.0.0
 Architecture: iphoneos-arm 
 Description: Rethought and remade for retina display.
- Out-of-the-way transparent
- WinterBoard theme that lets you
- really showcase your wallpaper.
+ As of version 4.0 only iOS >= 7.0
+ is supported! Glasklart is not
+ compatible with iPad!
+
+ Glasklart is an out-of-the-way,
+ transparent WinterBoard theme
+ that lets you really showcase
+ your wallpaper.
  
  Glasklart is swedish, it means
  "clear as glass".
  
- As of version 4 only iOS7 is
- supported. Glasklart iOS7 is not
- compatible with iPad! 
- 
- Now includes 5800+ icons which have
+ Now includes 6000+ icons which have
  been graciously crafted by the
  community.
  
