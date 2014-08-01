@@ -7,7 +7,7 @@ Out-of-the-way transparent WinterBoard theme that lets you really
 showcase your wallpaper. Glasklart is swedish, it means "clear as
 glass".
 
-Now includes 5900+ icons which have been graciously crafted by the community.
+Now includes 6000+ icons which have been graciously crafted by the community.
 
 Compatible **only** with iOS7 since the [release](https://github.com/glasklart/hd/releases) of [Version 4.00.0](https://github.com/glasklart/hd/releases/tag/release%2Fv4.00.0).
 
