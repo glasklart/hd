@@ -40,4 +40,4 @@ helps make Glasklart the best, most complete theme on the internet.
   
 A Word About The Artwork
 =====================================================================
-This is and was ever a free theme and nobody made or will ever make money with it. All icons here created by hand, using the artwork from the original authors only as inspiration. Every Glasklart icons is it's own pice of art. We fully respect the creators of the original artwork. Glasklart is a very popular Winterboard theme and we have seen people that are uninstalling apps because they are not themed... so in the end we are helping to develop apps without of charge and completley for free.  :peace: 
+This is and was ever a free theme and nobody made or will ever make money with it. All icons here created by hand, using the artwork from the original authors only as inspiration. Every Glasklart icon is it's own piece of art. We fully respect the creators of the original artwork. Glasklart is a very popular Winterboard theme and we have seen people that are uninstalling apps because they are not themed... so in the end we are helping to develop apps without of charge and completley for free. 
