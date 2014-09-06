@@ -36,3 +36,8 @@ helps make Glasklart the best, most complete theme on the internet.
   * [Contributing an Icon](https://github.com/glasklart/hd/wiki/How-to-Contribute-an-Icon)
   * [Submit a Bug](https://github.com/glasklart/hd/wiki/How-to-Submit-a-Bug)
   * or our favorite option... submit a pull request!
+  * 
+  
+A Word About The Artwork
+=====================================================================
+This is and was ever a free theme and nobody made or will ever make money with it. All icons here created by hand, using the artwork from the original authors only as inspiration. Every Glasklart icons is it's own pice of art. We fully respect the creators of the original artwork. Glasklart is a very popular Winterboard theme and we have seen people that are uninstalling apps because they are not themed... so in the end we are helping to develop apps without of charge and completley for free.  :peace: 
