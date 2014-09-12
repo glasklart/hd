@@ -36,7 +36,6 @@ helps make Glasklart the best, most complete theme on the internet.
   * [Contributing an Icon](https://github.com/glasklart/hd/wiki/How-to-Contribute-an-Icon)
   * [Submit a Bug](https://github.com/glasklart/hd/wiki/How-to-Submit-a-Bug)
   * or our favorite option... submit a pull request!
-  * 
   
 A Word About The Artwork
 =====================================================================
