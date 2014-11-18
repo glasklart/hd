@@ -48,18 +48,5 @@
 		font-size: 12px;
 		color: #ffffff;
 	</string>
-	<key>customclockicon</key>
-    	<dict>
-        	<key>blackDot</key>
-        	<string>#EEEEEE</string>
-        	<key>hours</key>
-        	<string>#EEEEEE</string>
-        	<key>minutes</key>
-        	<string>#EEEEEE</string>
-        	<key>seconds</key>
-        	<string>#FFFFFF</string>
-        	<key>redDot</key>
-        	<string>#FFFFFF</string>
-    	</dict>
 </dict>
 </plist>
