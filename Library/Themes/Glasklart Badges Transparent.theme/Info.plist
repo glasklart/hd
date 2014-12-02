@@ -4,6 +4,7 @@
 <dict>
 	<key>BadgeStyle</key>
 	<string>
+<<<<<<< HEAD
 			color:			rgba(221, 221, 221, 221);
 			text-shadow:	#000000 0px 0px 1px;
 			font-size:		18px;
@@ -11,5 +12,14 @@
 			font-family:	Helvetica Neue;
 			margin-top:		1px
 		</string>
+=======
+		color:		rgba(221, 221, 221, 221);
+		text-shadow:	#000000 0px 0px 1px;
+		font-size:	18px;
+		font-weight:	bold;
+		font-family:	Helvetica Neue;
+		margin-top:	1px
+	</string>
+>>>>>>> origin/master
 </dict>
 </plist>
