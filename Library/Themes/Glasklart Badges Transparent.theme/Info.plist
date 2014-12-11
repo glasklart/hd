@@ -4,13 +4,13 @@
 <dict>
 	<key>BadgeStyle</key>
 	<string>
-			color:			rgba(221, 221, 221, 221);
-			text-shadow:	#000000 0px 0px 1px;
-			font-size:		18px;
-			font-weight:	bold;
-			font-family:	Helvetica Neue;
-			margin-top:		2px
-		</string>
+		color:		rgba(221, 221, 221, 221);
+		text-shadow:	#000000 0px 0px 1px;
+		font-size:	18px;
+		font-weight:	bold;
+		font-family:	Helvetica Neue;
+		margin-top:	2px
+	</string>
 	<key>ThemeLib-BadgeSettings</key>
 	<dict>
 		<key>FontName</key>
@@ -22,7 +22,7 @@
 		<key>TextXoffset</key>
 		<real>2</real>
 		<key>TextYoffset</key>
-		<real>-2</real>
+		<real>-1</real>
 		<key>WidthChange</key>
 		<real>4</real>
 	</dict>
