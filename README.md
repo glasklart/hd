@@ -9,9 +9,7 @@ glass".
 
 Now includes **6500+** icons which have been graciously crafted by the community.
 
-Since the [release](https://github.com/glasklart/hd/releases) of [Version 4.0.0](https://github.com/glasklart/hd/releases/tag/release%2Fv4.00.0) Glasklart is only compatible with iOS7+ and uses the Winterboard-Plugin [`IconBundles`](http://cydia.saurik.com/package/com.codethemed.iconbundles/) by @nickfrey.
-
-Since Version 4.9 (currently on it's way to Cydia) we use the Cydia tweak `ThemeLib` from [Coolstar's Repo](http://repo.coolstar.org/). Please add the repo `http://coolstar.org/publicrepo/` to Cydia and install `ThemeLib`.
+Since the release of Version 4.9 Glasklart is compatible to iOS7 and iOS8. We are using the Winterboart-Plugin [`IconBundles`](https://github.com/nickfrey/IconBundles) (will be installed automatic when you install Glasklart via Cydia) by [@nickfrey](https://github.com/nickfrey) and the Winterboard-Plugin [`ThemeLib`](https://github.com/coolstar/themelib) by [@coolstar](https://github.com/coolstar). Please add the repo `http://coolstar.org/publicrepo/` to Cydia and install `ThemeLib`.
 
 Either download from Cydia (search for 'Glasklart'), or [click
 here](https://github.com/glasklart/hd/tarball/master).
