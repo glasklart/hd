@@ -4,12 +4,12 @@
 <dict>
 	<key>BadgeStyle</key>
 	<string>
-		color:		rgba(221, 221, 221, 221);
-		text-shadow:	#000000 0px 0px 1px;
-		font-size:	18px;
-		font-weight:	bold;
-		font-family:	Helvetica Neue;
-		margin-top:	2px
+		color: rgba(255,255,255,.9);
+		text-shadow: #000000 0px 0px 1px;
+		font-size: 18px;
+		font-weight: bold;
+		font-family: Helvetica Neue;
+		margin-top: 2px;
 	</string>
 	<key>ThemeLib-BadgeSettings</key>
 	<dict>
