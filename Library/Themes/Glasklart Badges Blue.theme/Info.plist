@@ -26,5 +26,26 @@
 		<key>WidthChange</key>
 		<real>4</real>
 	</dict>
+	<key>BadgeSettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>Helvetica Bold</string>
+		<key>FontSize</key>
+		<real>16</real>
+		<key>TextXoffset</key>
+		<real>2</real>
+		<key>TextYoffset</key>
+		<real>0</real>
+		<key>TextColor</key>
+		<string>rgba(255,255,255,.9)</string>
+		<key>ShadowColor</key>
+		<string>rgba(0,0,0,.5)</string>
+		<key>ShadowXoffset</key>
+		<real>0</real>
+		<key>ShadowYoffset</key>
+		<real>1</real>
+		<key>ShadowBlurRadius</key>
+		<real>2</real>
+	</dict>
 </dict>
 </plist>
