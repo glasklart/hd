@@ -4,6 +4,7 @@
 <dict>
 	<key>CalendarIconDayStyle</key>
 	<string>
+		font-family: "HelveticaNeue";
 		margin-top: 3px;
 		font-size: 8px;
 		color: rgba(255,255,255,1);
@@ -11,6 +12,7 @@
 	</string>
 	<key>CalendarIconDateStyle</key>
 	<string>
+		font-family: "HelveticaNeue-Light";
 		margin-top: 3px;
 		font-size: 36px;
 		color: rgba(255,255,255,.9);
@@ -21,11 +23,11 @@
 	<key>CalendarIconDaySettings</key>
 	<dict>
 		<key>FontName</key>
-		<string>Helvetica Neue</string>
+		<string>HelveticaNeue</string>
 		<key>FontSize</key>
 		<real>8</real>
 		<key>TextXoffset</key>
-		<real>0</real>
+		<real>0.0</real>
 		<key>TextYoffset</key>
 		<real>3</real>
 		<key>TextColor</key>
@@ -33,7 +35,7 @@
 		<key>ShadowColor</key>
 		<string>rgba(0,0,0,.5)</string>
 		<key>ShadowXoffset</key>
-		<real>0</real>
+		<real>0.0</real>
 		<key>ShadowYoffset</key>
 		<real>1</real>
 		<key>ShadowBlurRadius</key>
@@ -42,11 +44,11 @@
 	<key>CalendarIconDateSettings</key>
 	<dict>
 		<key>FontName</key>
-		<string>Helvetica Neue</string>
+		<string>HelveticaNeue-Light</string>
 		<key>FontSize</key>
 		<real>36</real>
 		<key>TextXoffset</key>
-		<real>0</real>
+		<real>0.0</real>
 		<key>TextYoffset</key>
 		<real>3</real>
 		<key>TextColor</key>
@@ -54,7 +56,7 @@
 		<key>ShadowColor</key>
 		<string>rgba(0,0,0,.5)</string>
 		<key>ShadowXoffset</key>
-		<real>0</real>
+		<real>0.0</real>
 		<key>ShadowYoffset</key>
 		<real>1</real>
 		<key>ShadowBlurRadius</key>
