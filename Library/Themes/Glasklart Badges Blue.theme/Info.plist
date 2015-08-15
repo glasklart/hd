@@ -33,7 +33,7 @@
 		<key>FontSize</key>
 		<real>16</real>
 		<key>TextXoffset</key>
-		<real>2</real>
+		<real>0.0</real>
 		<key>TextYoffset</key>
 		<real>0.0</real>
 		<key>TextColor</key>
