@@ -14,6 +14,7 @@
 	<string>
 		font-family: "HelveticaNeue-Light";
 		margin-top: 3px;
+		margin-left: -2px;
 		font-size: 36px;
 		color: rgba(255,255,255,.9);
 		text-shadow: 0 1px 2px rgba(0,0,0,.5);
@@ -36,7 +37,7 @@
 	<dict>
 		<key>FontName</key><string>HelveticaNeue-Light</string>
 		<key>FontSize</key><real>36.0</real>
-		<key>TextXoffset</key><real>0.0</real>
+		<key>TextXoffset</key><real>-2.0</real>
 		<key>TextYoffset</key><real>3.0</real>
 		<key>TextColor</key><string>rgba(255,255,255,.9)</string>
 		<key>ShadowColor</key><string>rgba(0,0,0,.5)</string>
