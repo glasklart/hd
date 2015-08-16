@@ -25,11 +25,11 @@
 		<key>FontName</key>
 		<string>HelveticaNeue</string>
 		<key>FontSize</key>
-		<real>8</real>
+		<real>8.0</real>
 		<key>TextXoffset</key>
 		<real>0.0</real>
 		<key>TextYoffset</key>
-		<real>3</real>
+		<real>3.0</real>
 		<key>TextColor</key>
 		<string>rgba(255,255,255,1)</string>
 		<key>ShadowColor</key>
@@ -37,20 +37,20 @@
 		<key>ShadowXoffset</key>
 		<real>0.0</real>
 		<key>ShadowYoffset</key>
-		<real>1</real>
+		<real>1.0</real>
 		<key>ShadowBlurRadius</key>
-		<real>2</real>
+		<real>2.0</real>
 	</dict>
 	<key>CalendarIconDateSettings</key>
 	<dict>
 		<key>FontName</key>
 		<string>HelveticaNeue-Light</string>
 		<key>FontSize</key>
-		<real>36</real>
+		<real>36.0</real>
 		<key>TextXoffset</key>
 		<real>0.0</real>
 		<key>TextYoffset</key>
-		<real>3</real>
+		<real>3.0</real>
 		<key>TextColor</key>
 		<string>rgba(255,255,255,.9)</string>
 		<key>ShadowColor</key>
@@ -58,9 +58,9 @@
 		<key>ShadowXoffset</key>
 		<real>0.0</real>
 		<key>ShadowYoffset</key>
-		<real>1</real>
+		<real>1.0</real>
 		<key>ShadowBlurRadius</key>
-		<real>2</real>
+		<real>2.0</real>
 	</dict>
 </dict>
 </plist>
