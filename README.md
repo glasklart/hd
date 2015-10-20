@@ -9,7 +9,8 @@ as glass".
 
 Now includes **8200+** icons which have been graciously crafted by the community.
 
-Glasklart is compatible to iOS7, iOS8 and iOS9. Since version 4.24.0 we are using [`Anemone`](https://twitter.com/anemone_ios). [`IconBundles`](https://github.com/nickfrey/IconBundles) by [@nickfrey](https://github.com/nickfrey) and the Winterboard-Plugin [`ThemeLib`](https://github.com/coolstar/themelib) by [@coolstar](https://github.com/coolstar) are not needed anymore and should be removed. Please add the repo `http://anemonetheming.com/nightly/` to Cydia and install `Anemone`.
+Glasklart is compatible to iOS7, iOS8 and iOS9. Since version 4.24.0 Glasklart uses [`Anemone`](https://twitter.com/anemone_ios). `IconBundles`, `ThemeLib` and `Winterboard` are not needed anymore.
+To use Glasklart, please install `Anemone`.
 
 Glasklart can be either downloaded from Cydia (search for 'Glasklart'), or you can [click
 here](https://github.com/glasklart/hd/tarball/master).
