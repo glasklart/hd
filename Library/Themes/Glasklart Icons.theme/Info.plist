@@ -1,28 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>CalendarIconDaySettings</key>
 	<dict>
-		<key>FontName</key><string>HelveticaNeue</string>
-		<key>FontSize</key><real>8.0</real>
-		<key>TextYoffset</key><real>3.0</real>
-		<key>TextColor</key><string>rgba(255,255,255,1)</string>
-		<key>ShadowColor</key><string>rgba(0,0,0,.5)</string>
-		<key>ShadowXoffset</key><real>0.0</real>
-		<key>ShadowYoffset</key><real>1.0</real>
-		<key>ShadowBlurRadius</key><real>2.0</real>
+		<key>CalendarIconDayStyle</key>
+		<string>
+			font-family: "HelveticaNeue";
+			margin-top: 3px;
+			font-size: 8px;
+			color: rgba(255,255,255,1);
+			text-shadow: 0 1px 2px rgba(0,0,0,.5);
+		</string>
+		<key>CalendarIconDateStyle</key>
+		<string>
+			font-family: "HelveticaNeue-Light";
+			margin-top: 3px;
+			font-size: 36px;
+			color: rgba(255,255,255,.9);
+			text-shadow: 0 1px 2px rgba(0,0,0,.5);
+			-webkit-mask-image: -webkit-linear-gradient(top, rgba(255,255,255,1), rgba(255,255,255,.75));
+			-webkit-mask-image: linear-gradient(top, rgba(255,255,255,1), rgba(255,255,255,.75));
+		</string>
+		<key>CalendarIconDaySettings</key>
+		<dict>
+			<key>FontName</key><string>HelveticaNeue</string>
+			<key>FontSize</key><real>8.0</real>
+			<key>TextYoffset</key><real>3.0</real>
+			<key>TextColor</key><string>rgba(255,255,255,1)</string>
+			<key>ShadowColor</key><string>rgba(0,0,0,.5)</string>
+			<key>ShadowXoffset</key><real>0.0</real>
+			<key>ShadowYoffset</key><real>1.0</real>
+			<key>ShadowBlurRadius</key><real>2.0</real>
+		</dict>
+		<key>CalendarIconDateSettings</key>
+		<dict>
+			<key>FontName</key><string>HelveticaNeue-Light</string>
+			<key>FontSize</key><real>36.0</real>
+			<key>TextYoffset</key><real>3.0</real>
+			<key>TextColor</key><string>rgba(255,255,255,.9)</string>
+			<key>ShadowColor</key><string>rgba(0,0,0,.5)</string>
+			<key>ShadowXoffset</key><real>0.0</real>
+			<key>ShadowYoffset</key><real>1.0</real>
+			<key>ShadowBlurRadius</key><real>2.0</real>
+		</dict>
 	</dict>
-	<key>CalendarIconDateSettings</key>
-	<dict>
-		<key>FontName</key><string>HelveticaNeue-Light</string>
-		<key>FontSize</key><real>36.0</real>
-		<key>TextYoffset</key><real>3.0</real>
-		<key>TextColor</key><string>rgba(255,255,255,.9)</string>
-		<key>ShadowColor</key><string>rgba(0,0,0,.5)</string>
-		<key>ShadowXoffset</key><real>0.0</real>
-		<key>ShadowYoffset</key><real>1.0</real>
-		<key>ShadowBlurRadius</key><real>2.0</real>
-	</dict>
-</dict>
 </plist>
