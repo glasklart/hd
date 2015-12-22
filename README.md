@@ -42,8 +42,8 @@ A Word About The Artwork
 This is, was ever and will be ever a completely free theme and nobody made or will ever make money with it. All icons here are created by hand, using the artwork from the original authors only as inspiration. So every Glasklart icon in the theme is it's own piece of art. We fully respect the creators of the original artwork. Glasklart is a very popular Winterboard theme and we have seen people that are uninstalling apps because they are not themed... so in the end we are helping to develop apps without of charge and completley for free.  
 **Procul omnis esto / clamor et ira.**
 
-<img src="https://cloud.githubusercontent.com/assets/2068130/11967731/931cec8c-a905-11e5-89de-9edcacfb30d4.png" width="300" height="686" align="left" />
+<img src="https://cloud.githubusercontent.com/assets/2068130/11967731/931cec8c-a905-11e5-89de-9edcacfb30d4.png" width="298" height="686" align="left" />
 
-<img src="https://cloud.githubusercontent.com/assets/2068130/11967516/cc9ac7b0-a903-11e5-8dbf-bf158b234b5b.png" width="300" height="686" align="center" />
+<img src="https://cloud.githubusercontent.com/assets/2068130/11967516/cc9ac7b0-a903-11e5-8dbf-bf158b234b5b.png" width="298" height="686" align="center" />
 
-<img src="https://cloud.githubusercontent.com/assets/2068130/11967734/968fb782-a905-11e5-9c62-49a3ccf68e0e.png" width="300" height="686" align="right" />
+<img src="https://cloud.githubusercontent.com/assets/2068130/11967734/968fb782-a905-11e5-9c62-49a3ccf68e0e.png" width="298" height="686" align="right" />
