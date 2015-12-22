@@ -41,5 +41,3 @@ A Word About The Artwork
 =====================================================================
 This is, was ever and will be ever a completely free theme and nobody made or will ever make money with it. All icons here are created by hand, using the artwork from the original authors only as inspiration. So every Glasklart icon in the theme is it's own piece of art. We fully respect the creators of the original artwork. Glasklart is a very popular Winterboard theme and we have seen people that are uninstalling apps because they are not themed... so in the end we are helping to develop apps without of charge and completley for free.  
 **Procul omnis esto / clamor et ira.**
-
-<center><img src="https://cloud.githubusercontent.com/assets/2068130/11967902/07b81476-a907-11e5-9a17-7e1c35968c80.png" width="450" height="527" /></center>
