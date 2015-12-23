@@ -7,7 +7,7 @@ Out-of-the-way, transparent iPhone theme that lets you really
 showcase your wallpaper. Glasklart is swedish, it means "clear
 as glass".
 
-Now includes **8.400+** icons which have been graciously crafted by the community.
+Now includes **8.500+** icons which have been graciously crafted by the community.
 
 Glasklart is compatible to iOS7, iOS8 and iOS9. Since version 4.24.0 Glasklart uses [`Anemone`](https://twitter.com/anemone_ios). `IconBundles`, `ThemeLib` and `Winterboard` are not needed anymore.
 To use Glasklart, please install `Anemone`.
