@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PackageName</key><string>Glasklart iPad</string>
+	<key>ThemeType</key><string>Badges</string>
+	<key>BadgeSettings</key>
+	<dict>
+		<key>FontName</key><string>Helvetica Bold</string>
+		<key>FontSize</key><real>16.0</real>
+		<key>TextColor</key><string>rgba(255,255,255,.9)</string>
+		<key>TextXoffset</key><real>1.0</real>
+		<key>TextYoffset</key><real>-1.0</real>
+		<key>ShadowColor</key><string>rgba(0,0,0,.5)</string>
+		<key>ShadowYoffset</key><real>1.0</real>
+		<key>ShadowBlurRadius</key><real>2.0</real>
+	</dict>
+</dict>
+</plist>
