@@ -14,6 +14,10 @@ Glasklart is compatible to iOS7, iOS8 and iOS9. Since version 4.24.0 Glasklart u
 Glasklart can be either downloaded from Cydia (search for 'Glasklart'), or you can [click
 here](https://github.com/glasklart/hd/tarball/master).
 
+Screenshots
+=====================================================================
+<img src="https://glasklarthd.dreamnet.at/img/screenshots/screen1_small.png" width="" height="">
+
 Contributors
 =====================================================================
 Without them, Glasklart would have died long ago. Please take a moment
