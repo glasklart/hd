@@ -25,7 +25,6 @@ to [look over our list of contributors](https://github.com/glasklart/hd/graphs/c
 
 Make sure to show your appreciation to everyone on this list!
 
--
 **Important:** if you wish to receive credit for icons you submit and
 be listed on the contributors page you must have a public email address
 attatched to your Github profile.
