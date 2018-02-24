@@ -3,5 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>PackageName</key><string>Glasklart</string>
+	<key>ThemeType</key><string>Icons</string>
 </dict>
 </plist>
