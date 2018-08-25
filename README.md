@@ -16,7 +16,7 @@ here](https://github.com/glasklart/hd/tarball/master).
 
 Screenshots
 =====================================================================
-<img src="https://glasklarthd.dreamnet.at/img/screenshots/screen1_small.png" width="" height=""><img src="https://glasklarthd.dreamnet.at/img/screenshots/screen2_small.png" width="" height=""><img src="https://glasklarthd.dreamnet.at/img/screenshots/screen3_small.png" width="" height="">
+<a href=""><img src="https://glasklarthd.dreamnet.at/img/screenshots/screen1_small.png" width="" height=""></a><a href=""><img src="https://glasklarthd.dreamnet.at/img/screenshots/screen2_small.png" width="" height=""></a><a href=""><img src="https://glasklarthd.dreamnet.at/img/screenshots/screen3_small.png" width="" height=""></a>
 
 Contributors
 =====================================================================
