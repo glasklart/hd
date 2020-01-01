@@ -9,7 +9,7 @@ as glass".
 
 Now includes **9.400+ high resolution** icons which have been graciously crafted by the community.
 
-Glasklart works with iOS7+. Since version 4.24.0 Glasklart uses **[Anemone](https://twitter.com/anemone_ios)**, but should also work with **[SnowBoard](https://repo.packix.com/package/com.spark.snowboard/)**.
+Glasklart works with iOS7+. Since version 4.24.0 Glasklart uses **[Anemone](https://twitter.com/anemone_ios)**, but should also work with **[SnowBoard](https://sparkdev.me/package/com.spark.snowboard)**.
 
 To download the latest version of Glasklart, please add `https://repo.dreamnet.at` to Cydia or Sileo and search for "Glasklart". You can then select the parts you want to theme in your theming app. To download from Github an manually install (the "Glasklart ..." folders must be copied to `/Library/Themes/`), [click
 here](https://github.com/glasklart/hd/tarball/master).
