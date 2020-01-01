@@ -11,7 +11,7 @@ Now includes **9.400+ high resolution** icons which have been graciously crafted
 
 Glasklart works with iOS7+. Since version 4.24.0 Glasklart uses **[Anemone](https://twitter.com/anemone_ios)**, but should also work with **[SnowBoard](https://repo.packix.com/package/com.spark.snowboard/)**.
 
-To download the latest version of Glasklart, please add `https://repo.dreamnet.at` to Cydia or Sileo (search for "Glasklart") and select the parts you want to theme. To download from Github an manually install (the "Glaklart ..." folders must be copied to `/Library/Themes/`), [click
+To download the latest version of Glasklart, please add `[https://repo.dreamnet.at](cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.dreamnet.at/)` `https://repo.dreamnet.at` to Cydia or Sileo (search for "Glasklart") and select the parts you want to theme. To download from Github an manually install (the "Glaklart ..." folders must be copied to `/Library/Themes/`), [click
 here](https://github.com/glasklart/hd/tarball/master).
 
 Screenshots
