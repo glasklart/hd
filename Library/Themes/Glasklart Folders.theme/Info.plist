@@ -4,5 +4,6 @@
 <dict>
 	<key>PackageName</key><string>Glasklart</string>
 	<key>ThemeType</key><string>Icons</string>
+	<key>FolderGridImageAlpha</key><real>1.0</real>
 </dict>
 </plist>
